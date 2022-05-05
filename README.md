@@ -1,1 +1,1 @@
-Repository for code, documenttion, and strategies for developing an updated Materials Requirements Planning (MRP) system for a well-known electrical components manufacturer. A library for academic papers related to this project is also furnished.
+Repository for code, documentation, and strategies for developing an updated Materials Requirements Planning (MRP) system for a well-known electrical components manufacturer. A library for academic papers related to this project is also furnished.
