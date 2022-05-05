@@ -1,1 +1,1 @@
-# Aerospace_Corp_Project
+Repository for code, documenttion, and strategies for developing an updated Materials Requirements Planning (MRP) system for a well-known electrical components manufacturer. A library for academic papers related to this project is also furnished.
